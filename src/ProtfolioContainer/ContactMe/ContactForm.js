@@ -8,7 +8,7 @@ export const ContactForm = () => {
         "service_protfolio",
         "template_protfolio",
         values,
-        "yOt-GS7TAhW-jcq0P"
+        "service_oqq9gq1"
       )
       .then((res) => alert("Email Send for Successfully"))
       .catch((err) => alert("not able to send email"));

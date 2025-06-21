@@ -1,11 +1,11 @@
 {
     "name" : "Richa Lalwani",
-    "title" : "Human Resource",
-    "description" :  "I'm a software engineer work in frontend and backend development for complex scalable web apps. I write reusable code for software development. Want to know how I may help your project? Check out my project portfolio and online resume.",
+    "title" : "Human Resource Professional",
+    "description" :  "I'm a seasoned HR professional with 5+ years of experience, adept at recruiting for both non-technical and technical roles. I excel in designing and managing key HR functions like recruitment, onboarding, compensation, candidate relations, and grievance handling. My goal is to continue evolving as a well-rounded HR expert, where I can directly contribute to achieving organizational goals through my expanding skillset. ",
     "links":[
         {
             "link": "/Resume",
-            "linkName": "online resume"
+            "linkName": "Online resume"
         }
     ],
     "profileImage": ""

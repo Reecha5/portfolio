@@ -33,7 +33,16 @@ import { ReactComponent as SpringioAr21 } from '../assests/languageLogo/springio
 import { ReactComponent as SpringioIcon } from '../assests/languageLogo/springio-icon.svg';
 import { ReactComponent as Sql } from '../assests/languageLogo/sql-svgrepo-com.svg';
 
+import {ReactComponent as Recruitment } from '../assests/extraIcon/recruitment.svg';
+import {ReactComponent as Onboard} from '../assests/extraIcon/onboard.svg';
+import {ReactComponent as Client_vendor } from '../assests/extraIcon/client_vendor.svg';
+import {ReactComponent as Candidate_management } from '../assests/extraIcon/candidate_management.svg';
+import {ReactComponent as Salary} from '../assests/extraIcon/salary.svg';
+import {ReactComponent as Technology} from '../assests/extraIcon/technology.svg';
 
+import {ReactComponent as Excel} from '../assests/toolsIcon/excel.svg';
+import {ReactComponent as MsWord} from '../assests/toolsIcon/ms_word.svg';
+import {ReactComponent as PowerBi} from '../assests/toolsIcon/power_bi.svg';
 
 
 const iconMapping = {
@@ -70,7 +79,19 @@ const iconMapping = {
   'language-reactjs-icon': Reactjs,
   'language-springioAr21-icon': SpringioAr21,
   'language-springioIcon-icon': SpringioIcon,
-  'language-sql-icon': Sql
+  'language-sql-icon': Sql,
+
+  'extra-icon-recruitment': Recruitment,
+  'extra-icon-onboard': Onboard,
+  'extra-icon-vendor': Client_vendor,
+  'extra-icon-candidate_management': Candidate_management,
+  'extra-icon-salary': Salary,
+  'extra-icon-technology': Technology,
+
+  'tool-icon-excel': Excel,
+  'tool-icon-ms_word': MsWord,
+  'tool-icon-power_bi': PowerBi,
+
 };
 
 const IconComponent = (props) => {

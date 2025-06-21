@@ -8,10 +8,10 @@ export const ContactInfo = () => {
         <h2 className="heading">Contact</h2>
         <div className="intro">
           <p>
-            Interested in hiring me for your project or just want to say hi? You
+            Interested in hiring me or just want to say hi? You
             can fill in the contact form below or send me an email to{" "}
             <a className="text-link" href="mailto:#">
-              indrajeetsinghkhalsa3@gmailcom
+              {contactMe?.email}
             </a>
           </p>
           <p>Want to get connected? Follow me on the social channels below.</p>

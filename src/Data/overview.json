@@ -1,25 +1,21 @@
 {
   "whatIDo": {
-    "description": "I have more than 4+ years' experience building software for clients. Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my ",
+    "description": "I am HR professional with more than 5 years of experience, I handle end-to-end recruitment, including onboarding, salary negotiation, candidate management, and post-offer processes. ",
     "links": [
       {
         "link": "/Resume",
         "linkName": "online resume"
-      },
-      {
-        "link": "/Project",
-        "linkName": "Projects"
       }
     ]
   },
 
   "skillSet": [
     {
-      "title": "Java And Java 8",
-      "description": "Having more than 4+ years experience in this technology. Used for backend development",
+      "title": "Recruitment",
+      "description": "Experienced End-to-End Recruiter (5+ years). Achieved 150 Tech/Non-Tech hires last year with 50% diversity.",
       "iconList": [
         {
-          "id": "language-java-icon",
+          "id": "extra-icon-recruitment",
           "height": "",
           "width": "",
           "color": ""
@@ -27,11 +23,11 @@
       ]
     },
     {
-      "title": "Java Script",
-      "description": "I have 6 months experience in this technology. Usually used for scripting when creating webpages",
+      "title": "Onboarding",
+      "description": "Facilitated welcoming and efficient new employee pre-boarding and initial weeks.",
       "iconList": [
         {
-          "id": "language-javascript-icon",
+          "id": "extra-icon-onboard",
           "height": "",
           "width": "",
           "color": ""
@@ -39,17 +35,71 @@
       ]
     },
     {
-      "title": "HTML And Css",
-      "description": "Having more than 6 months experience in this technology. Used for frontend development",
+      "title": "Salary Negotiation",
+      "description": "Developed and implemented fair compensation strategies, contributing to competitive salary offers and improved employee retention, supporting talent acquisition goals.",
       "iconList": [
         {
-          "id": "language-html5-icon",
+          "id": "extra-icon-salary",
+          "height": "",
+          "width": "",
+          "color": ""
+        }
+      ]
+    },
+    {
+      "title": "Candidate Management",
+      "description": "Reduced average time-to-hire by 15% through efficient candidate management & achieved a 90% candidate satisfaction score",
+      "iconList": [
+        {
+          "id": "extra-icon-candidate_management",
+          "height": "",
+          "width": "",
+          "color": ""
+        }
+      ]
+    },
+    {
+      "title": "Strategic Partnerships",
+      "description": "Developed and executed client engagement strategies that fostered long-term partnerships.",
+      "iconList": [
+        {
+          "id": "extra-icon-vendor",
+          "height": "",
+          "width": "",
+          "color": ""
+        }
+      ]
+    },
+    {
+      "title": "Technology Proficiency",
+      "description": "Human Resources Information Systems & HR Tech: Proficiency in using HR software i.e. WorkDay, WebERP for benefits, recruitment, performance management, and other HR functions.",
+      "iconList": [
+        {
+          "id": "extra-icon-technology",
+          "height": "",
+          "width": "",
+          "color": ""
+        }
+      ]
+    },
+    {
+      "title": "PowerBI & Microsoft Office Suite",
+      "description": "Human Resources Information Systems &Used PowerBI to create reports & interactive dashboard HR Tech: Proficiency in using HR software i.e. WorkDay, WebERP for benefits, recruitment, performance management, and other HR functions.",
+      "iconList": [
+        {
+          "id": "tool-icon-excel",
           "height": "",
           "width": "",
           "color": ""
         },
         {
-          "id": "language-css3-icon",
+          "id": "tool-icon-ms_word",
+          "height": "",
+          "width": "",
+          "color": ""
+        },
+        {
+          "id": "tool-icon-power_bi",
           "height": "",
           "width": "",
           "color": ""
@@ -58,58 +108,10 @@
     },
     {
       "title": "Sql",
-      "description": "Moderate level. Used for data storage",
+      "description": "Learning stage. Extracted employee data from HR databases using SQL queries to support various HR initiatives.",
       "iconList": [
         {
           "id": "language-sql-icon",
-          "height": "",
-          "width": "",
-          "color": ""
-        }
-      ]
-    },
-    {
-      "title": "Spring Boot",
-      "description": "Using for better performance and management",
-      "iconList": [
-        {
-          "id": "language-springioIcon-icon",
-          "height": "",
-          "width": "",
-          "color": ""
-        }
-      ]
-    },
-    {
-      "title": "Git",
-      "description": "Using for code management",
-      "iconList": [
-        {
-          "id": "github-icon",
-          "height": "",
-          "width": "",
-          "color": ""
-        }
-      ]
-    },
-    {
-      "title": "React Js",
-      "description": "Having more than 6 months experience in this technology. Used for backend development",
-      "iconList": [
-        {
-          "id": "language-reactjs-icon",
-          "height": "",
-          "width": "",
-          "color": ""
-        }
-      ]
-    },
-    {
-      "title": "Kibana",
-      "description": "Tool used for reading logs",
-      "iconList": [
-        {
-          "id": "language-kibana-icon",
           "height": "",
           "width": "",
           "color": ""

@@ -1,18 +1,8 @@
 {
+  "email": "mailto:reechalalwani14@gmail.com",
     "socialMediaDetails": [
       {
-        "link": "https://www.facebook.com/indrajeetsingh.khalsa.7",
-        "name": "Facebook",
-        "target": "_blank",
-        "icon": {
-          "id": "facebook-icon",
-          "height": "32px",
-          "width": "32px",
-          "color": ""
-        }
-      },
-      {
-        "link": "mailto:indrajeetsinghkhalsa3@gmail.com",
+        "link": "mailto:reechalalwani14@gmail.com",
         "name": "Gmail",
         "target": "",
         "icon": {
@@ -23,18 +13,18 @@
         }
       },
       {
-        "link": "https://www.instagram.com/indrajeetsinghkhalsa/",
-        "name": "Instagram",
+        "link": "https://www.linkedin.com/in/reechalalwani14/",
+        "name": "Facebook",
         "target": "_blank",
         "icon": {
-          "id": "instagram-icon",
+          "id": "linkedIn-icon",
           "height": "32px",
           "width": "32px",
           "color": ""
         }
       },
       {
-        "link": "https://github.com/indrajeetsinghkhalsa",
+        "link": "https://github.com/Reecha5",
         "name": "Github",
         "target": "_blank",
         "icon": {

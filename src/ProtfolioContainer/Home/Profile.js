@@ -21,12 +21,13 @@ function Profile() {
       <AboutMe />
       <Overview />
       <TestimonialCarousel />
+      {/* TODO: if we required or have some idea to show story then we will use otherwise we will remove
       <section className="Project p-3 p-lg-5">
         <div className="container">
           <h2 className="section-title font-weight-bold mb-5">Project</h2>
           <ProjectCards onClickFunction={projectToggleModal} numberOfCards={4} />
         </div>
-      </section>
+      </section> */}
       {openModal && (
         <PortfolioModal
           modalCloseAction={projectToggleModal}

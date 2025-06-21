@@ -1,25 +1,34 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.95fda0d4.css",
-    "main.js": "/portfolio/static/js/main.bc9218e8.js",
+    "main.js": "/portfolio/static/js/main.bbd628d7.js",
     "static/js/498.08e1e2c8.chunk.js": "/portfolio/static/js/498.08e1e2c8.chunk.js",
     "static/js/703.041860bd.chunk.js": "/portfolio/static/js/703.041860bd.chunk.js",
     "static/js/598.485ca944.chunk.js": "/portfolio/static/js/598.485ca944.chunk.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/smiling-facea.gif": "/portfolio/static/media/smiling-facea.11df36231e28eef9f80e.gif",
+    "static/media/candidate_management.svg": "/portfolio/static/media/candidate_management.66cdf4b1def9f04f434ebc00df1fea8d.svg",
+    "static/media/client_vendor.svg": "/portfolio/static/media/client_vendor.d2d9e8427504c7d3ed6c15422bda4c37.svg",
     "static/media/reactjs-svgrepo-com.svg": "/portfolio/static/media/reactjs-svgrepo-com.e72c9ed5483656b44c338310ad3219ce.svg",
+    "static/media/power_bi.svg": "/portfolio/static/media/power_bi.df42120c9faf193762efd320965a67fa.svg",
+    "static/media/technology.svg": "/portfolio/static/media/technology.8d3dc752e5e21518a804c30f42ff5b95.svg",
     "static/media/springio-ar21.svg": "/portfolio/static/media/springio-ar21.d458b3503f08c9fee348482e5f3318cb.svg",
+    "static/media/salary.svg": "/portfolio/static/media/salary.e251528ff87e426518f17c3f0bbdddc4.svg",
     "static/media/java-svgrepo-com.svg": "/portfolio/static/media/java-svgrepo-com.7852cbfaa72efef9ac05b12844e8c17f.svg",
+    "static/media/ms_word.svg": "/portfolio/static/media/ms_word.66fff2037646466d4fcbcbec248ad4be.svg",
     "static/media/css-3-svgrepo-com.svg": "/portfolio/static/media/css-3-svgrepo-com.f1823d8606e24164d5ac03b4e9b80d85.svg",
     "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/recruitment.svg": "/portfolio/static/media/recruitment.da29b4b8d4ff4a8cae388cbf3c306f6a.svg",
     "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/website.svg": "/portfolio/static/media/website.7ad849b22d965480bda5c066710fd21b.svg",
+    "static/media/excel.svg": "/portfolio/static/media/excel.4a0deebbe807cd0a33bf4d52ded229a4.svg",
     "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "static/media/git-svgrepo-com.svg": "/portfolio/static/media/git-svgrepo-com.6f19690dc5fd14f7a9593d09f8d78b36.svg",
     "static/media/link.svg": "/portfolio/static/media/link.828ec75c87164b8ae4b48bc9242e1294.svg",
     "static/media/sql-svgrepo-com.svg": "/portfolio/static/media/sql-svgrepo-com.14f1580f476092cb7e8951197dcc6031.svg",
     "static/media/instagram.svg": "/portfolio/static/media/instagram.3c991984ec7e3a7a082d050c80c6c6fc.svg",
+    "static/media/onboard.svg": "/portfolio/static/media/onboard.ab4430121cdb50346f129839e61781ce.svg",
     "static/media/github.svg": "/portfolio/static/media/github.892b38deab32aa8a368383dcbb846f44.svg",
     "static/media/pdf.svg": "/portfolio/static/media/pdf.115d4e56429bac1d1a9876a8bfe80e5a.svg",
     "static/media/peopleSize.svg": "/portfolio/static/media/peopleSize.0ba94f8b80721f6433cd41f4201b9e90.svg",
@@ -49,7 +58,7 @@
     "static/media/cross.svg": "/portfolio/static/media/cross.ae86f085ae19395cb6166b3a35212767.svg",
     "static/media/navbar-icon.svg": "/portfolio/static/media/navbar-icon.8f0f70787878727959f066a7561d618a.svg",
     "main.95fda0d4.css.map": "/portfolio/static/css/main.95fda0d4.css.map",
-    "main.bc9218e8.js.map": "/portfolio/static/js/main.bc9218e8.js.map",
+    "main.bbd628d7.js.map": "/portfolio/static/js/main.bbd628d7.js.map",
     "498.08e1e2c8.chunk.js.map": "/portfolio/static/js/498.08e1e2c8.chunk.js.map",
     "703.041860bd.chunk.js.map": "/portfolio/static/js/703.041860bd.chunk.js.map",
     "598.485ca944.chunk.js.map": "/portfolio/static/js/598.485ca944.chunk.js.map",
@@ -57,6 +66,6 @@
   },
   "entrypoints": [
     "static/css/main.95fda0d4.css",
-    "static/js/main.bc9218e8.js"
+    "static/js/main.bbd628d7.js"
   ]
 }
